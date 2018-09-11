@@ -1,0 +1,49 @@
+415_HW3.pdf
+CMakeLists.txt
+LICENSE
+Makefile
+README.md
+TRAIL_SHELL.c
+ani2
+ani7
+io
+myfile.txt
+myfile2.txt
+myshell.c
+readme.txt
+tr
+total 1216
+drwxr-xr-x  19 anirudhmohan  staff     646 Oct 20 21:09 .
+drwx------+ 14 anirudhmohan  staff     476 Oct 20 14:34 ..
+-rw-r--r--@  1 anirudhmohan  staff    6148 Oct 20 20:51 .DS_Store
+drwxr-xr-x  13 anirudhmohan  staff     442 Oct 17 23:18 .git
+-rw-r--r--   1 anirudhmohan  staff     430 Oct 17 00:58 .gitignore
+-rw-r--r--@  1 anirudhmohan  staff  514052 Oct 17 00:58 415_HW3.pdf
+-rw-r--r--   1 anirudhmohan  staff     152 Oct 17 00:58 CMakeLists.txt
+-rw-r--r--   1 anirudhmohan  staff    1072 Oct 17 00:58 LICENSE
+-rw-r--r--   1 anirudhmohan  staff      74 Oct 17 00:58 Makefile
+-rw-r--r--   1 anirudhmohan  staff      11 Oct 17 00:58 README.md
+-rw-r--r--@  1 anirudhmohan  staff    3644 Oct 20 21:09 TRAIL_SHELL.c
+-rwxr-xr-x   1 anirudhmohan  staff    8924 Oct 19 01:33 ani2
+-rwxr-xr-x   1 anirudhmohan  staff    8924 Oct 17 22:36 ani7
+-rwxr-xr-x   1 anirudhmohan  staff   13652 Oct 17 04:32 io
+-rw-r--r--@  1 anirudhmohan  staff     128 Oct 20 21:10 myfile.txt
+-rw-r--r--@  1 anirudhmohan  staff    4224 Oct 20 20:07 myfile2.txt
+-rw-r--r--   1 anirudhmohan  staff    1579 Oct 20 20:48 myshell.c
+-rw-r--r--@  1 anirudhmohan  staff     785 Oct 17 23:12 readme.txt
+-rwxr-xr-x   1 anirudhmohan  staff    9272 Oct 20 21:09 tr
+415_HW3.pdf
+CMakeLists.txt
+LICENSE
+Makefile
+README.md
+TRAIL_SHELL.c
+ani2
+ani7
+io
+myfile.txt
+myfile2.txt
+myshell.c
+readme.txt
+sh
+tr
